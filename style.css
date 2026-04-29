@@ -45,13 +45,11 @@ nav a:hover {
 h1{
     font-family: 'Franklin Gothic Medium';
     color: white;
-    text-align:
 }
 
 p {
     color: white;
     font-family: 'Lucida Sans';
-    text-align: ;
 }
 
 footer p {
@@ -65,15 +63,107 @@ li {
     font-family: 'Lucida Sans';
 }
 
-/* Apagar o h3 depois */
-h3 {color: #38bdf8;}
-/* Apagar o h3 depois */
+h3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Gill Sans';
+}
+
+.fonta {
+  text-decoration: none;
+  color: white;
+  font-family: Arial;
+}
 
 
 
 
-img {
+
+.img1 {
   display: block;
   margin: auto;
+  border-radius: 15px;
 }
+
+.goldhe {
+  display: block;
+  margin: auto;
+  width: 440px;
+}
+
+.correto {
+  width: 12px;
+}
+
+.erro {
+  width: 13px;
+}
+
+.erro1 {
+  width: 40px;
+}
+
+.app {
+  width: 200px;
+}
+
+
+
+
+
+.tabelagh {
+  margin: auto;
+  width: 710px;
+  height: 1200px;
+  background-color: rgb(63, 63, 63);
+  border-collapse: collapse;
+  border-color: #1d6500;
+}
+
+.metodop {
+  text-align: center;
+}
+
+.nome {
+  text-align: center;
+  height: 55px;
+}
+
+th {
+  color: rgb(255, 255, 255);
+  text-align: left;
+  font-family: 'Franklin Gothic Medium'
+}
+
+.fonte1 {
+  font-family: 'Franklin Gothic Medium';
+  background-color: #6da756;
+}
+
+.indisp {
+  font-family: 'Franklin Gothic Medium';
+  color: rgb(226, 106, 106);
+}
+
+.indisp1 {
+  font-family: 'Franklin Gothic Medium';
+  color: rgb(226, 106, 106);
+  text-align: center;
+}
+
+.disp {
+  color: rgb(81, 201, 81);
+  font-family: 'Franklin Gothic Medium';
+}
+
+.firmware {
+  font-family: 'Franklin Gothic Medium';
+  color: rgb(81, 201, 81);
+}
+
+.firmware1 {
+  font-family: 'Franklin Gothic Medium';
+  color: rgb(226, 106, 106);
+}
+
 
